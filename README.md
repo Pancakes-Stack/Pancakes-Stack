@@ -1,3 +1,1 @@
-- 👋 Hey everyone! 
-- 👀 I’m interested in games,pfantasy and horror in general, gardening, Photography. 
-- 🌱 I’m currently learning Python for game making! 
+
